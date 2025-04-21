@@ -8,20 +8,16 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", "~> 4.24.0"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" and
-# gem "minimal-mistakes-jekyll" above, and uncomment the "github-pages"
-# and "webrick" gems below.
+# If you want to use GitHub Pages, uncomment the "github-pages" and "webrick" gems below.
 # If using github-pages, switch to using minimal-mistakes-jekyll as a
 # remote theme (https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method)
 # by removing theme: minimal-mistakes-jekyll form _config.yml and adding
 # remote_theme: mmistakes/minimal-mistakes instead.
 
-# gem "github-pages", group: :jekyll_plugins
-# Required for github-pages with Ruby > 3
-# https://github.com/github/pages-gem/issues/752
-# gem "webrick", "~> 1.8"
+gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.8"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

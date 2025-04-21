@@ -1,19 +1,167 @@
 ---
 permalink: /
-# title: "About me"
 excerpt: "About me"
 author_profile: true
 classes: wide
 ---
 
-Hi! I'm a senior research engineer and fullstack developer, with master's degrees in applied mathematics, computer science and artificial intelligence. I specialize in developing data analysis & visualization tools as well as AI / ML models, mostly with Python and JavaScript frameworks. My areas of expertise also include databases, data processing tools, cloud computing and DevOps.
+I am a second-year PhD candidate in the <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering" target="_blank">School of Computer Science and Engineering (CSE)</a> at the <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, where I conduct research at the intersection of network security and machine learning. My work focuses on encrypted network traffic classification, with the goal of enabling real-time threat detection and efficient resource management in an increasingly encrypted internet environment.
 
-I have fifteen years of experience working as a software engineer, and for the past ten years I’ve been contributing to open-source projects while working as a research engineer at [Inria](https://inria.fr/en), France's national institute for research in digital science and technology. I have an interest for public service and projects that tackle current social and political problems through the development of human-focused software and AI models.
+Previously, I have been involved in research at the <a href="https://cisco-nus.nus.edu.sg/" target="_blank">Cisco-NUS Corporate Laboratory</a> at the <a href="https://cde.nus.edu.sg/ece/" target="_blank">National University of Singapore</a>, where I explored the application of large language models to network traffic analysis. I also contributed to the development of IP reputation systems at the <a href="https://www.hbku.edu.qa/en/qcri" target="_blank">Qatar Computing Research Institute</a>.
 
-I enjoy working with multidisciplinary teams from various backgrounds. I have experience working with small, agile teams of engineers to deliver software that is problem oriented and reliable. Recently, I've been taking on the role of project manager and leading engineering teams, focusing on ways to get higher impact engineering organizations.
+I am always open to discussions and potential collaborations. If you are interested in my research or exploring opportunities to work together, feel free to get in touch.
 
-Please take a look at [some of my work](/work).
+### Education {#education}
 
-Here is my [resume](/assets/files/cv-jrenault-2022.pdf) (in french).
+<div class="section">
+    <div class="section-item">
+        <strong>PhD Candidate:</strong> 2023–Present
+        <ul>
+            <li>University of New South Wales (UNSW), Kensington, Australia</li>
+            <li>Supervisors: 
+            <a href="https://research.unsw.edu.au/people/dr-arash-shaghaghi" target="_blank">Dr. Arash Shaghaghi</a>, 
+            <a href="https://research.unsw.edu.au/people/professor-sanjay-jha" target="_blank">Prof. Sanjay Jha</a></li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>B.Sc. Honours in Computer Science [First Class]:</strong> 2017–2021
+        <ul>
+            <li>University of Colombo School of Computing (UCSC), Colombo 07, Sri Lanka</li>
+            <li>GPA: 3.85/4.00 | Class Position: 4 (Top 2.5%)</li>
+            <li>Thesis: Uncovering Hosting IP Types Behind Malicious Websites</li>
+            <li>Supervisors: 
+            <a href="https://scholar.google.com.au/citations?user=Lka4RwsAAAAJ&hl=en" target="_blank">Dr. Mohamed Nabeel </a>, 
+            <a href="https://scholar.google.com/citations?user=SFxdJK0AAAAJ&hl=en" target="_blank">Dr. Chamath Keppitiyagama</a></li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>Diploma in Computer System Designing:</strong> 2016–2017
+        <ul>
+            <li>National Institute of Business Management, Colombo 07, Sri Lanka</li>
+        </ul>
+    </div>
+</div>
 
-Please contact me with any questions (email on the left).
+<hr>
+
+### Selected Publications {#publications}
+
+<div class="section">
+    <div class="section-item">
+        <p class="p-no-margin-bottom"><strong>SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers</strong><br>
+        <u>N. Wickramasinghe</u>, A. Shaghaghi, G. Tsudik, S. Jha.<br>
+        <em>To Appear at 46th IEEE Symposium on Security and Privacy (S&P) - 2025</em></p>
+        <div class="button-group">
+            <!-- <a href="https://www.youtube.com" target="_blank" class="btn btn-youtube">
+                <i class="fab fa-youtube"></i> YouTube
+            </a> -->
+            <a href="https://arxiv.org/abs/2503.20093" target="_blank" class="btn btn-arxiv">
+                <i class="fas fa-file-alt"></i> Preprint
+            </a>
+            <a href="https://github.com/nime-sha256/chromium-cipher-suite-customizer" target="_blank" class="btn btn-github">
+                <i class="fab fa-github"></i> Customized Chromium
+            </a>
+            <a href="https://github.com/nime-sha256/ntc-enigma" target="_blank" class="btn btn-github">
+                <i class="fab fa-github"></i> NTC Enigma
+            </a>
+            <a href="https://cspectrum.web.cse.unsw.edu.au" target="_blank" class="btn btn-github">
+                <i class="fa-solid fa-database"></i> CipherSpectrum
+            </a>
+        </div>
+    </div>
+    <div class="section-item">
+        <p class="p-no-margin-bottom"><strong>Less is More: Simplifying Network Traffic Classification Leveraging RFCs</strong><br>
+        <u>N. Wickramasinghe</u>, A. Shaghaghi, E. Ferrari, S. Jha<br>
+        <em>To Appear at the ACM Web Conference (WWW) - 2025</em></p>
+        <div class="button-group">
+            <!-- <a href="https://www.youtube.com" target="_blank" class="btn btn-youtube">
+                <i class="fab fa-youtube"></i> YouTube
+            </a> -->
+            <a href="https://arxiv.org/abs/2502.00586" target="_blank" class="btn btn-arxiv">
+                <i class="fas fa-file-alt"></i> Preprint
+            </a>
+            <a href="https://github.com/nime-sha256/LiM" target="_blank" class="btn btn-github">
+                <i class="fab fa-github"></i> Less is More
+            </a>
+        </div>
+  </div>
+</div>
+
+<hr>
+
+### Grants & Awards {#awards}
+
+<div class="section">
+    <div class="section-item">
+        <strong>IEEE S&P 2025 - Student Travel Grant</strong>
+        <ul>
+            <li>An award designed to support selected students in attending the conference.</li>
+            <li><em>Successful Applications:</em> 26 | <em>Number of Applications:</em> 219 | <em>Award Rate:</em> 11.87%</li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>DRTG 2025 - Development and Research Training Grant</strong>
+        <ul>
+            <li>A grant to aid early-stage PhD students in obtaining research and professional experience.</li>
+            <li><em>Offered by:</em> UNSW Graduate Research School</li>
+        </ul>
+    </div>
+</div>
+
+<hr>
+
+### Services {#services}
+
+<div class="section">
+    <div class="section-item">
+        <strong>Peer Reviewing</strong>
+        <ul>
+            <li>29th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC) - <em>2024</em></li>
+            <li>49th IEEE Conference on Local Computer Networks (LCN) - <em>2024</em></li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>Volunteering</strong>
+        <ul>
+            <li>ACM SIGCOMM 2024: Organizing Committee - <em>2024</em></li>
+            <li>National Olympiad of Informatics: Organizing Committee - <em>2019</em></li>
+            <li>UCSC ACM Student Chapter: Treasurer - <em>2018</em></li>
+            <li>IEEE Sri Lanka section AGM: Organizing Committee <em>2018</em></li>
+        </ul>
+  </div>
+</div>
+
+<style>
+
+.section {
+  padding-left: 1em;
+}
+
+h2 {
+  padding-top: 0;
+  border-bottom: none !important;
+  margin-top: 1.5em;
+}
+
+.section-item {
+  margin-bottom: 1.75em;
+}
+
+.section-item ul {
+    margin-top: 0.5em;
+}
+
+.section-item ul li {
+    margin-bottom: 0.25em;
+}
+
+hr {
+    border-top: 1px solid #bdbfbf;
+}
+
+.p-no-margin-bottom {
+    margin-bottom: 0 !important;
+}
+
+</style>
+

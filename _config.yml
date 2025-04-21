@@ -18,49 +18,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jonas Renault
+title: Nimesha Wickramasinghe
 title_separator: "|"
-name: Jonas Renault
-email: jonasrenault@gmail.com
-description: >- # this means to ignore newlines until "domain:"
-  Jonas Renault - Senior Research Engineer, Fullstack Developer and Project Manager
-domain: jrenault.fr
+name: Nimesha Wickramasinghe
+email: n.wickramasinghe@unsw.edu.au
+description: >- # this means to ignore newlines until "baseurl:"
+  Nimesha Wickramasinghe - PhD Student, University of New South Wales, Sydney, Australia
+domain: nime-sha256.info
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jrenault.fr" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "jonasrenault/jonasrenault.github.io"
-github_username:  jonasrenault
+url: "https://nime-sha256.info" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "nime-sha256/nimesha.github.io"
+twitter_username: nime_sha256
+github_username: nime-sha256
 
 # Build settings
-# remote_theme: mmistakes/minimal-mistakes@4.26.1
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Author
 author:
-  name             : "Jonas Renault"
-  avatar           : "/assets/images/bio-photo-2.jpg"
-  bio              : "Senior Research Engineer & Fullstack Developer"
-  location         : "France"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jonasrenault@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonasrenault"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jonasrenault/"
+  # name             : "Nimesha Wickramasinghe"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Applied AI/ML for Network Security"
+  location         : "Sydney, Australia"
+  employer         : "University of New South Wales"
+  email            : "n.wickramasinghe@unsw.edu.au"
+  github           : "nime-sha256"
+  google_scholar   : "https://scholar.google.com.au/citations?hl=en&user=icvGlCkAAAAJ"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonasrenault"
+      url: "https://github.com/nime-sha256"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jonasrenault/"
+      url: "https://www.linkedin.com/in/nime-sha256"
 
 
 # Defaults
@@ -154,11 +148,6 @@ analytics:
   google:
     tracking_id: __GA_TRACKING_ID__
     anonymize_ip: false # default
-
-# added the following to disable sass deprecation warnings.
-# see https://github.com/mmistakes/minimal-mistakes/issues/4054
-sass:
-  quiet_deps: true    # Disable printing deprecation warnings to terminal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
