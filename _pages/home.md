@@ -34,12 +34,6 @@ I am always open to discussions and potential collaborations. If you are interes
             <a href="https://scholar.google.com/citations?user=SFxdJK0AAAAJ&hl=en" target="_blank">Dr. Chamath Keppitiyagama</a></li>
         </ul>
     </div>
-    <div class="section-item">
-        <strong>Diploma in Computer System Designing:</strong> 2016–2017
-        <ul>
-            <li>National Institute of Business Management, Colombo 07, Sri Lanka</li>
-        </ul>
-    </div>
 </div>
 
 <hr>
