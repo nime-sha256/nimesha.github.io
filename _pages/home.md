@@ -110,6 +110,7 @@ I am always open to discussions and potential collaborations. If you are interes
     <div class="section-item">
         <strong>Peer Reviewing</strong>
         <ul>
+            <li>Elsevier B.V. Ad Hoc Networks - <em>2025</em></li>
             <li>29th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC) - <em>2024</em></li>
             <li>49th IEEE Conference on Local Computer Networks (LCN) - <em>2024</em></li>
         </ul>
