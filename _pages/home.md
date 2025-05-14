@@ -44,13 +44,13 @@ I am always open to discussions and potential collaborations. If you are interes
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers</strong><br>
         <u>N. Wickramasinghe</u>, A. Shaghaghi, G. Tsudik, S. Jha.<br>
-        <em>To Appear at 46th IEEE Symposium on Security and Privacy (S&P) - 2025</em></p>
+        <em>IEEE Symposium on Security and Privacy (SP) - 2025</em></p>
         <div class="button-group">
             <!-- <a href="https://www.youtube.com" target="_blank" class="btn btn-youtube">
                 <i class="fab fa-youtube"></i> YouTube
             </a> -->
-            <a href="https://arxiv.org/abs/2503.20093" target="_blank" class="btn btn-arxiv">
-                <i class="fas fa-file-alt"></i> Preprint
+            <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600b732/26hiUvcHgly" target="_blank" class="btn btn-arxiv">
+                <i class="fas fa-file-alt"></i> Paper
             </a>
             <a href="https://github.com/nime-sha256/chromium-cipher-suite-customizer" target="_blank" class="btn btn-github">
                 <i class="fab fa-github"></i> Customized Chromium
@@ -66,7 +66,7 @@ I am always open to discussions and potential collaborations. If you are interes
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Less is More: Simplifying Network Traffic Classification Leveraging RFCs</strong><br>
         <u>N. Wickramasinghe</u>, A. Shaghaghi, E. Ferrari, S. Jha<br>
-        <em>To Appear at the ACM Web Conference (WWW) - 2025</em></p>
+        <em>The ACM Web Conference (WWW) - 2025</em></p>
         <div class="button-group">
             <!-- <a href="https://www.youtube.com" target="_blank" class="btn btn-youtube">
                 <i class="fab fa-youtube"></i> YouTube
