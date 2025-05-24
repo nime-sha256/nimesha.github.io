@@ -50,7 +50,10 @@ I am always open to discussions and potential collaborations. If you are interes
                 <i class="fab fa-youtube"></i> YouTube
             </a> -->
             <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600b732/26hiUvcHgly" target="_blank" class="btn btn-arxiv">
-                <i class="fas fa-file-alt"></i> Paper
+                <i class="fas fa-file-alt"></i> CSDL
+            </a>
+            <a href="https://arxiv.org/abs/2503.20093" target="_blank" class="btn btn-arxiv">
+                <i class="fas fa-file-alt"></i> Preprint
             </a>
             <a href="https://github.com/nime-sha256/chromium-cipher-suite-customizer" target="_blank" class="btn btn-github">
                 <i class="fab fa-github"></i> Customized Chromium
@@ -68,6 +71,9 @@ I am always open to discussions and potential collaborations. If you are interes
         <u>N. Wickramasinghe</u>, A. Shaghaghi, E. Ferrari, S. Jha<br>
         <em>The ACM Web Conference (WWW) - 2025</em></p>
         <div class="button-group">
+            <a href="https://dl.acm.org/doi/10.1145/3701716.3715492" target="_blank" class="btn btn-arxiv">
+                <i class="fas fa-file-alt"></i> ACM DL
+            </a>
             <!-- <a href="https://www.youtube.com" target="_blank" class="btn btn-youtube">
                 <i class="fab fa-youtube"></i> YouTube
             </a> -->
