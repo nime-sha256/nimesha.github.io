@@ -84,7 +84,7 @@ I am always open to discussions and potential collaborations. If you are interes
                 <i class="fab fa-github"></i> Less is More
             </a>
         </div>
-        <div style="margin-top: 15px;border: 1px solid gray;width: fit-content;" "="">
+        <div style="margin-top: 15px;border: 1px solid gray;width: fit-content;">
             <iframe 
                 aria-labelledby="auxelement-1-caption" 
                 style="border: none;width: 100%;height: auto;aspect-ratio: 16 / 9;vertical-align: bottom;" 
