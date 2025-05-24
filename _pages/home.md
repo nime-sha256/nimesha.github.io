@@ -84,6 +84,17 @@ I am always open to discussions and potential collaborations. If you are interes
                 <i class="fab fa-github"></i> Less is More
             </a>
         </div>
+        <div style="margin-top: 15px;border: 1px solid gray;width: fit-content;" "="">
+            <iframe 
+                aria-labelledby="auxelement-1-caption" 
+                style="border: none;width: 100%;height: auto;aspect-ratio: 16 / 9;vertical-align: bottom;" 
+                allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" 
+                loading="lazy" 
+                allowfullscreen="true"
+src="https://iframe.videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI0NzhkZWU2MDYzOWY2YzZkYWQ4Y2FlZjcwOWY4MmQ2OSIsImV4cCI6MTc0ODA2ODAwNywia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.yqwU8qyb3U-8p56IvsweflJu_Fy7GSFIA8eRg-hdkJIqJz4jtqK3d28XmB7AwOKrWW0djE9b4fJZgdG2sULlhCnUuJedZsBU6oQvAr1hZDd-NeQ5-pA55xbnjEaguwTxiSaQVK57zeV0KUYMpouZoi26immxhL9LTDSoBvVMWAPjE6-HxtXT_wwE2VKIjscGa_8t3zK6__QBnyZThQpsR8z0NhUHIbovLlqdxmbjEXRGvVKU6ifatL2ed9xn4jUVdrRDPzDs1UyiUOBqrHOf_jTsKhZP0Pwtg0IOl4mDSX_sZeQj3xGuMKRe0t9nm45ejByPajA-YkygPWNbCfS6Jw?poster=https%3A%2F%2Fvideodelivery.net%2FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI0NzhkZWU2MDYzOWY2YzZkYWQ4Y2FlZjcwOWY4MmQ2OSIsImV4cCI6MTc0ODA2ODAwNywia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.yqwU8qyb3U-8p56IvsweflJu_Fy7GSFIA8eRg-hdkJIqJz4jtqK3d28XmB7AwOKrWW0djE9b4fJZgdG2sULlhCnUuJedZsBU6oQvAr1hZDd-NeQ5-pA55xbnjEaguwTxiSaQVK57zeV0KUYMpouZoi26immxhL9LTDSoBvVMWAPjE6-HxtXT_wwE2VKIjscGa_8t3zK6__QBnyZThQpsR8z0NhUHIbovLlqdxmbjEXRGvVKU6ifatL2ed9xn4jUVdrRDPzDs1UyiUOBqrHOf_jTsKhZP0Pwtg0IOl4mDSX_sZeQj3xGuMKRe0t9nm45ejByPajA-YkygPWNbCfS6Jw%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D0.0s" 
+                class="videoplayer">
+            </iframe>
+        </div>
   </div>
 </div>
 
