@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="favicon-title">
+  <title id="favicon-title">NW monogram</title>
+  <rect x="4" y="4" width="120" height="120" rx="22" fill="#faf9f6" stroke="#315c55" stroke-width="8"/>
+  <text x="12" y="82" fill="#242826" font-family="Georgia, Times New Roman, serif" font-size="52" font-weight="700" letter-spacing="-4">NW</text>
+  <circle cx="110" cy="91" r="7" fill="#416b64"/>
+</svg>
